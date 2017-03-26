@@ -16,7 +16,7 @@
   },
   "dependencies": {
     "request": "2.75.0",
-    "rrule": "2.1.0"
+    "rrule-alt": "^2.2.5"
   },
   "devDependencies": {
     "vows": "0.7.0",
